@@ -1,4 +1,4 @@
-# learning-new
+# Git and Github course
 
 ## This repo was used to learn git from Ryan Ruzani
 
